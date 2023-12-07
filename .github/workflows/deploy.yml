@@ -3,14 +3,12 @@ name: deploy
 on:
   push:
     branches:
-      - gh-pages
-      #      - master
-      #      - main
+      - master
+      - main
   pull_request:
     branches:
-      - gh-pages
-      #      - master
-      #      - main
+      - master
+      - main
   workflow_dispatch:
 
 permissions:
