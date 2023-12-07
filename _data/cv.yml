@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Joris Labarbe
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th September 1995
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Northumbria University, Newcastle-upon-Tyne, UK
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,18 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc
+      institution: Universite Toulouse III, Toulouse, France
+      year: 2018
       description:
         - Description 1.
         - Description 2.
+    - title: Licence
+      institution: Universite Toulouse III, Toulouse, France
+      year: 2016
+    - title: DUT (Technological degree)
+      institution: Universite de Bordeaux I, Bordeaux, France
+      year: 2015
 
 - title: Experience
   type: time_table
