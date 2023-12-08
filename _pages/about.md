@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Laboratoire JA Dieudonne.
+subtitle: <a href='https://math.univ-cotedazur.fr/'>Affiliation</a>. Laboratoire J.A. Dieudonné. Parc Valrose, 28 Avenue Valrose, 06108 Nice.
 
 profile:
   align: right
