@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Stratified Shear Flows
+description: Instabilities, mixing and coherent structures in geophysical flows
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: LGHDF23,LK21
 ---
 
 Every project has a beautiful feature showcase page.
