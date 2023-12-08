@@ -11,91 +11,80 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Applied Mathematics
       institution: Northumbria University, Newcastle-upon-Tyne, UK
       year: 2021
       description:
-        - Supervisor: Dr. Oleg O.N. Kirillov
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: MSc
-      institution: Universite Toulouse III, Toulouse, France
+        - "Supervisor: Dr. Oleg O.N. Kirillov"
+        - "Title: Radiative and diffusive instabilities in moving fluids"
+    - title: MSc in Fluid Dynamics
+      institution: Université Toulouse III, Toulouse, France
       year: 2018
-      description:
-        - Description 1.
-        - Description 2.
-    - title: Licence
-      institution: Universite Toulouse III, Toulouse, France
+    - title: Licence in Mechanics
+      institution: Université Toulouse III, Toulouse, France
       year: 2016
-    - title: DUT (Technological degree)
-      institution: Universite de Bordeaux I, Bordeaux, France
+    - title: DUT in Mechanics (Technological Degree)
+      institution: Université Bordeaux I, Bordeaux, France
       year: 2015
 
-- title: Experience
+- title: Research Experiences
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral position
+      institution: Laboratoire J.A. Dieudonné
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Collaborator: D. Clamond"
+        - "Research topic: Surface wave recovery from pressure measurements at the seabed"
+    - title: Postdoctoral position
+      institution: Institut de Recherche sur les Phénomènes Hors Equilibre
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "Collaborators: P. Le Gal, B. Favier and S. Le Dizès"
+        - "Research topic: Shear instabilities in stratified flows"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experiences
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching fellow
+      institution: Université Côte d'Azur, France
+      year: 2023 - 2024
+      description: 
+    - "48h - module 'Mathematics for Engineers' for 2nd-year students."
+    - "Marking of exam papers"
+    - title: Teaching fellow
+      institution: Northumbria University, UK
+      year: 2018 - 2021
+      description: 
+    - "48h - module 'Mathematics for Engineers' for 2nd-year students."
+    - "24h - module 'Logics and Algorithmics' for Foundation Year students."
+    - "Marking of exam papers"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - UCA-JEDI fellowship by the 'Agence Nationale de la Recherche' (2 years)
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - AMIDEX fellowship by the 'Institut de Mécanique et Ingénierie' (1 year)
 
-- title: Academic Interests
+- title: Invited Seminars
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Invited seminar at INRIA Sophia Antipolis
+      date: 19 December 2023
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Oral presentation
+    - title: Invited seminar at University College of Cork
+      date: 16 November 2023
+      items: 
+        - Oral presentation
+    - title: Invited seminar at Institut de Mécaniques des Fluides de Toulouse
+      date: 14 December 2020
+      items: 
+        - Oral presentation
 
 - title: Other Interests
   type: list
