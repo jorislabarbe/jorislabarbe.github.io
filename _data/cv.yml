@@ -71,25 +71,76 @@
         - AMIDEX fellowship by the 'Institut de Mécanique et Ingénierie' (1 year)
 
 - title: Invited Seminars
-  type: nested_list
+  type: time_table
   contents:
     - title: INRIA
       institution: Sophia Antipolis, France
       year: 2023
       items: 
-        - "Oral presentation - 19 December 2023"
+        - "Oral presentation -- 19 December 2023"
     - title: University College Cork
       institution: Cork, Ireland
       year: 2023
       items: 
-        - "Oral presentation - 16 November 2023"
+        - "Oral presentation -- 16 November 2023"
     - title: Institut de Mécaniques des Fluides de Toulouse
       institution: Toulouse, France
       year: 2020
       items: 
-        - "Oral presentation - 14 December 2020"
+        - "Oral presentation -- 14 December 2020"
 
-- title: Other Interests
-  type: list
+- title: Conferences and Workshops
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: "Anti-diffusive dynamics: from sub-cellular to astrophysical scales"
+      institution: "Isaac Newton Institute, Cambdrige, UK" 
+      year: 2024
+      items: 
+        - "Workshop -- 15-16 January 2023"
+    - title: "Geophysical Astrophysical Fluid Dynamics: Experiments and models"
+      institution: "Université Côte d'Azur, Nice, France"
+      year: 2023
+      items: 
+        - "Poster presentation -- 11-15 September 2023"
+    - title: "UCC - Waves Workshop 2023"
+      institution: "University College Cork, Cork, Ireland"
+      year: 2023
+      items: 
+        - "Workshop - 24-25 April 2023"
+    - title: "IX International Symposium on Stratified Flows" 
+      institution: "Isaac Newton Institute, Cambridge, UK"
+      year: 2023
+      items: 
+        - "Oral presentation - 29 August 2023-1st September 2023"
+    - title: "2022 SPARC Gravity Waves Symposium"
+      institution: "Goethe University Frankfurt, Frankfurt, Germany"
+      year: 2022
+      items: 
+        - "Oral presentation - 28 March 2022-1st April 2022"
+    - title: "International Congress of Theoretical and Applied Mechanics" 
+      institution: "Online"
+      year: 2021
+      items: 
+        - "Short oral presentation - 22-27 August 2021"
+    - title: "DynamicsDays-XL"
+      institution: "Université Côte d'Azur"
+      year: 2021
+      items: 
+        - "Oral presentation - 22-27 August 2020"
+    - title: "Summer School on Gravitational Waves"
+      institution: "IU of Applied Sciences, Bad Honnef, Germany"
+      year: 2019
+      items: 
+        - "Poster presentation - 08-13 September 2019"
+    - title: "LIA–ISTROF Workshop" 
+      institution: "BTU-Cottbus, Cottbus, Germany"
+      year: 2019
+      items: 
+        - "Oral presentation - 19-20 June 2019"
+    - title: "MHD Days and GdRI Dynamo Meeting"
+      institution: "HZDR, Dresden, Germany"
+      year: 2019
+      items: 
+        - "Poster presentation - 26-28 November 2018"
+
+
