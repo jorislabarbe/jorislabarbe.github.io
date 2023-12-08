@@ -73,16 +73,19 @@
 - title: Invited Seminars
   type: nested_list
   contents:
-    - title: Invited seminar at INRIA Sophia Antipolis
-      date: 19 December 2023
+    - title: INRIA
+      institution: Sophia Antipolis, France
+      year: 19 - 12 - 2023
       items: 
         - Oral presentation
-    - title: Invited seminar at University College of Cork
-      date: 16 November 2023
+    - title: University College Cork
+      institution: Cork, Ireland
+      year: 16 - 11 - 2023
       items: 
         - Oral presentation
-    - title: Invited seminar at Institut de Mécaniques des Fluides de Toulouse
-      date: 14 December 2020
+    - title: Institut de Mécaniques des Fluides de Toulouse
+      institution: Toulouse, France
+      year: 14 - 12 - 2020
       items: 
         - Oral presentation
 
