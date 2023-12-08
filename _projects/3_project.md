@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Fluid-Structure Interactions
+title: Fluid-structure interactions
 description: Wave resonances, scattering and flutter theory
 img: assets/img/7.jpg
 importance: 3
 category: Scientific projects
+related_publications: LK22,LK20
 ---
 
 Every project has a beautiful feature showcase page.

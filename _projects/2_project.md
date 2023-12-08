@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Surface Wave Recovery
+title: Surface wave recovery
 description: Computation of water waves from discrete measurement
 img: assets/img/3.jpg
 importance: 2
 category: Scientific projects
-giscus_comments: true
+related_publications: CL23,LC23,CHL23
 ---
 
 Every project has a beautiful feature showcase page.

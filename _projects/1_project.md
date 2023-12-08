@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stratified Shear Flows
+title: Stratified shear flows
 description: Instabilities, mixing and coherent structures in geophysical flows
 img: assets/img/12.jpg
 importance: 1
