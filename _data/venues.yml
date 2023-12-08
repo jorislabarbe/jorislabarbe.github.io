@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"JFM":
+  url: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PhysFluids":
+  url: https://pubs.aip.org/aip/pof
+
+"PhysRevE":
+  url: https://journals.aps.org/pre/
+
+"Thesis":
+  url: https://nrl.northumbria.ac.uk/id/eprint/47568/
