@@ -1,8 +1,8 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
-subtitle: Laboratoire J.A. Dieudonne. Parc Valrose, 28 Avenue Valrose, 06108 Nice.
+subtitle: Laboratoire J.A. Dieudonné. Parc Valrose, 28 Avenue Valrose, 06108 Nice.
 
 profile:
   align: right
