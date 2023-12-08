@@ -50,15 +50,15 @@
       institution: Université Côte d'Azur, France
       year: 2023 - 2024
       description: 
-    - "48h - module 'Mathematics for Engineers' for 2nd-year students."
-    - "Marking of exam papers"
+        - "48h - module 'Mathematics for Engineers' for 2nd-year students."
+        - "Marking of exam papers"
     - title: Teaching fellow
       institution: Northumbria University, UK
       year: 2018 - 2021
       description: 
-    - "48h - module 'Mathematics for Engineers' for 2nd-year students."
-    - "24h - module 'Logics and Algorithmics' for Foundation Year students."
-    - "Marking of exam papers"
+        - "48h - module 'Mathematics for Engineers' for 2nd-year students."
+        - "24h - module 'Logics and Algorithmics' for Foundation Year students."
+        - "Marking of exam papers"
 
 - title: Honors and Awards
   type: time_table
@@ -75,19 +75,19 @@
   contents:
     - title: INRIA
       institution: Sophia Antipolis, France
-      year: 19 - 12 - 2023
+      year: 2023
       items: 
-        - Oral presentation
+        - Oral presentation -- 19 December 2023
     - title: University College Cork
       institution: Cork, Ireland
-      year: 16 - 11 - 2023
+      year: 2023
       items: 
-        - Oral presentation
+        - Oral presentation -- 16 November 2023
     - title: Institut de Mécaniques des Fluides de Toulouse
       institution: Toulouse, France
-      year: 14 - 12 - 2020
+      year: 2020
       items: 
-        - Oral presentation
+        - Oral presentation -- 14 December 2020
 
 - title: Other Interests
   type: list
