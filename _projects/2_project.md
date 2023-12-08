@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Surface Wave Recovery
-description: Computation of water-wave profile from discrete measurement
+description: Computation of water waves from discrete measurement
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Scientific projects
 giscus_comments: true
 ---
 

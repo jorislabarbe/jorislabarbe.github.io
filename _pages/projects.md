@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of my reserch interests.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: Scientific projects
 horizontal: false
 ---
 

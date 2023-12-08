@@ -4,7 +4,7 @@ title: Fluid-Structure Interactions
 description: Wave resonances, scattering and flutter theory
 img: assets/img/7.jpg
 importance: 3
-category: work
+category: Scientific projects
 ---
 
 Every project has a beautiful feature showcase page.
