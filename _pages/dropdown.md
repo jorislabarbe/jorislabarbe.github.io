@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Explore
-nav: true
+nav: false
 nav_order: 7
-dropdown: true
+dropdown: false
 children:
     - title: Publications
       permalink: /publications/
