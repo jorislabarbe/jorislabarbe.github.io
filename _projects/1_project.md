@@ -2,7 +2,7 @@
 layout: page
 title: Stratified shear flows
 description: Instabilities, mixing and coherent structures in geophysical flows
-img: assets/img/12.jpg
+img: assets/img/KH.jpg
 importance: 1
 category: Scientific projects
 related_publications: LGHDF23,LK21
