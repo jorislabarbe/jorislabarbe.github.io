@@ -16,4 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently involved in a postdoctoral research project at LJAD (Nice, France) in collaboration with Prof. Clamond.
+My areas of expertise are the modelling, the computation and the analysis of a broad range of systems in fluid mechanics. I am interested in problems with applications in geophysics, astrophysics, coastal engineering and related domains.
+
+I received my PhD in Applied Mathematics from Northumbria University under the supervision of Oleg N. Kirillov before starting a one-year postdoctoral program at IRPHE (Marseille, France) to investigate the stability of stratified shear flows.
+
+Currently, I am involved in a postdoctoral research project at LJAD (Nice, France) in collaboration with Prof. Clamondto work on water waves (and related topics).
+
+My list of publications, the projects I am involved with and my resume are available from the menu in the top-right corner.
+
+

@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selection of my reserch interests.
+description: A selection of my research interests.
 nav: true
 nav_order: 2
 display_categories: Scientific projects
