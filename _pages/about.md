@@ -21,5 +21,5 @@ I received my PhD in Applied Mathematics from Northumbria University under the s
 
 Currently, I am involved in a postdoctoral research project at LJAD (Nice, France) in collaboration with Prof. D. Clamond to work on water waves (and related topics).
 
-My list of publications, the projects I am involved with and my resume are available from the menu in the top-right corner.
+A list of my publications, the projects I am involved with and my resume are available from the menu in the top-right corner.
 
