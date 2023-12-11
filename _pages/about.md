@@ -20,7 +20,7 @@ My areas of expertise are the modelling, the computation and the analysis of a b
 
 I received my PhD in Applied Mathematics from Northumbria University under the supervision of Oleg N. Kirillov before starting a one-year postdoctoral program at IRPHE (Marseille, France) to investigate the stability of stratified shear flows.
 
-Currently, I am involved in a postdoctoral research project at LJAD (Nice, France) in collaboration with Prof. Clamondto work on water waves (and related topics).
+Currently, I am involved in a postdoctoral research project at LJAD (Nice, France) in collaboration with Prof. Clamond to work on water waves (and related topics).
 
 My list of publications, the projects I am involved with and my resume are available from the menu in the top-right corner.
 
