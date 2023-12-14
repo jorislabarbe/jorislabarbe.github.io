@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Postdoctoral researcher
-             Laboratoire J.A. Dieudonné
+  more_info: Postdoctoral Researcher
+             Laboratoire J.A. Dieudonné,
              28 Avenue Valrose, 06108 Nice
              
             
