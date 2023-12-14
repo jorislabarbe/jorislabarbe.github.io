@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: Laboratoire J.A. Dieudonné. Parc Valrose, 28 Avenue Valrose, 06108 Nice.
+subtitle: Theoretical and Computational Fluid Dynamics / Out-of-Equilibrium Physics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Theoretical Fluid Dynamics 
+  more_info: Postdoctoral researcher
+             Laboratoire J.A. Dieudonné
+             28 Avenue Valrose, 06108 Nice
              
-             Out-of-Equilibrium Physics
-
+            
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
