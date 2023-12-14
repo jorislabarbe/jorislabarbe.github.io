@@ -8,8 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Theoretical fluid Dynamics 
-             Out-of-equilibrium physics>
+  more_info: Theoretical Fluid Dynamics 
+             
+             Out-of-Equilibrium Physics
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
