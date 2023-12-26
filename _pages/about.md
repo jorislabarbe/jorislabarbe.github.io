@@ -6,7 +6,7 @@ subtitle: Theoretical and Computational Fluid Dynamics / Out-of-Equilibrium Phys
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IA1.jpg
   image_circular: false # crops the image to make it circular
   more_info: Postdoctoral Researcher
              Laboratoire J.A. Dieudonné,
